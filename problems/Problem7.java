@@ -1,3 +1,5 @@
+package problems;
+
 // https://leetcode.com/problems/reverse-integer/description/
 public class Problem7 {
     public static int reverse(int x) {

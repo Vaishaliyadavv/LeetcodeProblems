@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/search-insert-position/description/
+package problems;// https://leetcode.com/problems/search-insert-position/description/
 
 public class Problem35 {
     public static int searchInsert(int[] nums, int target) {

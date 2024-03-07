@@ -1,3 +1,5 @@
+package problems;
+
 public class Problem11 {
     public static int maxArea(int[] height) {
         int left = 0;

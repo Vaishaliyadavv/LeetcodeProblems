@@ -1,3 +1,5 @@
+package problems;
+
 class Problem5 {
 
     private static int expandAroundCenter(String s, int left, int right) {

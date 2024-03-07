@@ -1,3 +1,5 @@
+package problems;
+
 public class Problem10 {
     static int n;
     static int m;

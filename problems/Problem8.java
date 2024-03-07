@@ -1,3 +1,5 @@
+package problems;
+
 public class Problem8 {
     public static void main(String[] args) {
         // Example input string

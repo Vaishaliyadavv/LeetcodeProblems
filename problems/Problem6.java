@@ -1,3 +1,5 @@
+package problems;
+
 public class Problem6 {
     public static String convert(String s, int numRows) {
         int n = s.length();

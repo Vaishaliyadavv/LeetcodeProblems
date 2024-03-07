@@ -1,3 +1,5 @@
+package problems;
+
 // https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 public class Problem3 {
 
